@@ -75,8 +75,10 @@ p{
 .py-1{padding:10px 0;}
 .py-2{padding:20px 0;}
 .py-3{padding:30px 0;}
+
 .l-heading{
     font-size: 40px;
+    line-height: 1.2;
 }
 #navbar a{
     color:white;
@@ -123,7 +125,7 @@ p{
     line-height: 1.7em;
 }
 #home-info{
-    height:400px;
+    height:450px;
 }
 #home-info .info-img {
     float:left;
