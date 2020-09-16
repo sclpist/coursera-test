@@ -124,6 +124,7 @@ p{
     no-repeat center center/cover;
     height:100vh;
     color:#fff;
+    position:relative;
 
 }
 #showcase .showcase-content{
@@ -137,7 +138,7 @@ p{
     padding:0 2rem;
     /*overlay*/
     position:absolute;
-    top:65px;
+    top:0;
     left:0;
     right:0;
     bottom:0;
